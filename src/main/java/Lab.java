@@ -67,5 +67,5 @@ public class Lab {
      */
     public boolean notEqualTo(int a, int b){
         return a != b;
-    }
+    }  
 }
